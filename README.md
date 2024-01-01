@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, karan nath</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate web Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karan60&label=Profile%20views&color=0e75b6&style=flat" alt="Karan60" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="https://twitter.com/@Karan_nath_60" target="blank"><img src="https://img.shields.io/twitter/follow/Karan60?logo=twitter&style=for-the-badge" alt="Karan60"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **frontend development**
 
 
 - 💬 Ask me about **html,css,js,c,DSA**
