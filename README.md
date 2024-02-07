@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **frontend development**
 
 
-- 💬 Ask me about **html,css,js,c,DSA**
+- 💬 Ask me about **HTML,css,js,c,DSA**
 
 - 📫 How to reach me **nathkaran327@gmail.com**
 
